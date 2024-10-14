@@ -1,0 +1,21 @@
+# Magento 2 generated files
+/generated/
+/var/
+/pub/static/
+/pub/media/
+# Composer dependencies
+/vendor/
+# System-specific files
+/.idea/
+/node_modules/
+.DS_Store
+.env
+# Log files
+*.log
+*.tmp
+*.cache
+*.gz
+# Backup files
+*.bak
+*.swp
+*~
